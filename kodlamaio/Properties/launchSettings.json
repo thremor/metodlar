@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "kodlamaio": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
